@@ -18,4 +18,6 @@ def shift_with_args(array, n)
  array.shift(n)
 end
  
- 
+def using_concat
+  array.concat
+end 
